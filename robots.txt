@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: /beta
+Disallow: /images
 Disallow: /dana-sakatat.html
 Disallow: /kuzu-sakatat.html
