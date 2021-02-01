@@ -125,6 +125,9 @@ a:hover {
  .only-mobile{
   visibility:visible;
   }
+ .only-mobile-title{
+  visibility:hidden;
+  }
 }
 
 .footer{
