@@ -126,7 +126,7 @@ a:hover {
   visibility:visible;
   }
  .only-mobile-title{
-  visibility:hidden;
+ display:none;
   }
 }
 
